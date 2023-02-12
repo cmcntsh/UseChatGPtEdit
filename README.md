@@ -11,7 +11,7 @@ ChatGPT may be a useful tool to help you edit and improve your writing. Here is 
   * ![New chat](https://github.com/cmcntsh/UseChatGPtEdit/blob/main/images/ChatGPTNewChat.png)
 * I entered all of these prompts by typing the text, using Shift-Enter to move to a new line, pasting the paragaph into the text entry box, and hitting Enter to submit. In each of these examples you'll see the prompt I entered followed by the response from ChatGPT.
 * Critique a paragraph.
-  * ![New chat](https://github.com/cmcntsh/UseChatGPtEdit/blob/main/images/ChatGPtCrutique.png)
+  * ![Critique a paragraph](https://github.com/cmcntsh/UseChatGPtEdit/blob/main/images/ChatGPtCrituque.png)
 * Identify sentence that doesn't fit.
 * Improve a paragraph.
 
