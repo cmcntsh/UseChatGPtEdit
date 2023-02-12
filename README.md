@@ -1,6 +1,8 @@
 # Use ChatGPT to Help Edit and Improve Your Writing
 
-Hiring an editor to help with your writing can be very expensive. I've seen editing services cost between $50 - $120 per hour. ChatGPT may be a useful tool to help you edit and improve your writing. Here is an example of feedback provided by ChatGPT on a paragraph. 
+Hiring an editor to help with your writing can be very expensive. I've seen editing services cost between $50 - $120 per hour. ChatGPT may be a useful tool to help you edit and improve your writing. An editor may still be helpful to help you with the ordering of ideas and flow of a paper, but at least you won't be spending money to fix the mechanics of your writing. 
+
+Here is an example of feedback provided by ChatGPT on a paragraph and some other writing examples. 
 
 * I started with the following paragraph:
 
