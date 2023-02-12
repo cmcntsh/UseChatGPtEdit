@@ -1,6 +1,6 @@
 # Use ChatGPT to Help Edit and Improve Your Writing
 
-ChatGPT may be a useful tool to help you edit and improve your writing. Here is an example of feedback provided by ChatGPT on a paragraph. 
+Hiring an editor to help with your writing can be very expensive. I've seen editing services cost between $50 - $120 per hour. ChatGPT may be a useful tool to help you edit and improve your writing. Here is an example of feedback provided by ChatGPT on a paragraph. 
 
 * I started with the following paragraph:
 
@@ -10,8 +10,19 @@ ChatGPT may be a useful tool to help you edit and improve your writing. Here is 
 * Start a new chat. 
   * ![New chat](https://github.com/cmcntsh/UseChatGPtEdit/blob/main/images/ChatGPTNewChat.png)
 * I entered all of these prompts by typing the text, using Shift-Enter to move to a new line, pasting the paragaph into the text entry box, and hitting Enter to submit. In each of these examples you'll see the prompt I entered followed by the response from ChatGPT.
-* Critique a paragraph.
-  * ![Critique a paragraph](https://github.com/cmcntsh/UseChatGPtEdit/blob/main/images/ChatGPtCrituque.png)
-* Identify sentence that doesn't fit.
-* Improve a paragraph.
 
+### Critique a paragraph.
+
+![Critique a paragraph](https://github.com/cmcntsh/UseChatGPtEdit/blob/main/images/ChatGPtCrituque.png)
+
+### Identify sentence that doesn't fit.
+
+![Doesn't fit](https://github.com/cmcntsh/UseChatGPtEdit/blob/main/images/ChatGPtNotBelong.png)
+
+### Improve a paragraph.
+
+![Improve a paragraph](https://github.com/cmcntsh/UseChatGPtEdit/blob/main/images/ChatGPtImproveP.png)
+
+### Fix a sentence.
+
+![Fix a sentence](https://github.com/cmcntsh/UseChatGPtEdit/blob/main/images/ChatFixSentence.png)
