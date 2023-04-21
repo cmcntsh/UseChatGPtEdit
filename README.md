@@ -28,3 +28,7 @@ Here is an example of feedback provided by ChatGPT on a paragraph and some other
 ### Fix a sentence.
 
 ![Fix a sentence](https://github.com/cmcntsh/UseChatGPtEdit/blob/main/images/ChatFixSentence.png)
+
+# Additional Resources
+
+* Unesco ChatGPT and Artificial Intelligence in Higher Education Quick Start Guide https://www.iesalc.unesco.org/en/2023/04/14/chatgpt-and-artificial-intelligence-in-higher-education-quick-start-guide-and-interactive-seminar/
