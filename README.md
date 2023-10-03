@@ -15,7 +15,8 @@ Here is an example of feedback provided by ChatGPT on a paragraph and some other
 
 ### Useful prompts
 
-* You are editing a scholarly paper. Provide responses that use a scholarly tone and complete explanations. Improve this paragraph: [Paste text here.]
+* You are editing a scholarly paper. Provide responses that use a scholarly tone and complete explanations. Improve this [section, paragraph, sentence, etc.]: [Paste text here.]
+* Paraphrase the text using more academic and scientific language. Use a neutral tone and avoid repetitions of words and phrases. 
 
 ### Critique a paragraph.
 
