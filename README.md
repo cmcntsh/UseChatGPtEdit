@@ -16,7 +16,9 @@ Here is an example of feedback provided by ChatGPT on a paragraph and some other
 ### Useful prompts
 
 * You are editing a scholarly paper. Provide responses that use a scholarly tone and complete explanations. Improve this [section, paragraph, sentence, etc.]: [Paste text here.]
-* Paraphrase the text using more academic and scientific language. Use a neutral tone and avoid repetitions of words and phrases. 
+* Paraphrase the text using more academic and scientific language. Use a neutral tone and avoid repetitions of words and phrases.
+* You are editing a scholarly paper about a healthcare quality improvement project following the SQUIRE 2.0 guidelines. Please revise this section to improve the logic and flow of the content. Use scholarly and scientific language. Use a neutral tone. Provide complete explanations, but avoid repetitions of words and phrases.
+  * I tried this prompt with a longer section of text. It did a good job of improving the language. It did not significantly improve the overall organization. (There was a lot of jumping back and forth between topics and repeating some elements. However, I followed up with a request to reorganize the text into main sections about x, y, and z and that made a big difference. The resulting rewrite was more organized.
 
 ### Critique a paragraph.
 
