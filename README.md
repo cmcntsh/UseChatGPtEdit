@@ -40,8 +40,7 @@ I asked ChatGPT to suggest some steps to edit an academic paper.
 I asked ChatGPT for some prompts to help with specific steps.
 
 	• Prompt for checking for structure and organization and getting a suggested revision
-		○ Please review this text for overall structure and organization. Ensure that the ideas flow logically, and the paragraphs are well-connected. If you identify any areas where the organization could be improved or suggest restructuring for better clarity, please provide specific recommendations:
-[Hit shift-enter to move to the next line down and paste the text here.] 
+		○ Please review this text for overall structure and organization. Ensure that the ideas flow logically, and the paragraphs are well-connected. If you identify any areas where the organization could be improved or suggest restructuring for better clarity, please provide specific recommendations: Hit shift-enter to move to the next line down and paste the text here. 
 	• Prompt for checking for grammar and style and getting suggested revision
 		○ Please review my text for grammar and style. Check for any grammatical errors, awkward phrasing, or areas where the writing style can be improved. If you notice any repetitive or unclear language, provide specific suggestions for enhancement. The text is [insert the specific text or a brief description of the content]. 
 	• Prompt for checking for clarity and conciseness and getting suggested revision
