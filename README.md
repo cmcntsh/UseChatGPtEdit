@@ -37,6 +37,17 @@ I asked ChatGPT to suggest some steps to edit an academic paper.
 			• Perform a final check to ensure that all changes have been made correctly and that the paper is ready for submission. 
    
 
+I asked ChatGPT for some prompts to help with specific steps.
+
+	• Prompt for checking for structure and organization and getting a suggested revision
+		○ Please review this text for overall structure and organization. Ensure that the ideas flow logically, and the paragraphs are well-connected. If you identify any areas where the organization could be improved or suggest restructuring for better clarity, please provide specific recommendations:
+[Hit shift-enter to move to the next line down and paste the text here.] 
+	• Prompt for checking for grammar and style and getting suggested revision
+		○ Please review my text for grammar and style. Check for any grammatical errors, awkward phrasing, or areas where the writing style can be improved. If you notice any repetitive or unclear language, provide specific suggestions for enhancement. The text is [insert the specific text or a brief description of the content]. 
+	• Prompt for checking for clarity and conciseness and getting suggested revision
+		○ Please review my text for clarity and conciseness. Check for any areas where the language could be clearer or more concise. If you identify any redundant or overly complex sentences, suggest specific revisions to enhance clarity and brevity. The text is [insert the specific text or provide a brief description of the content].
+	• Prompt for checking for consistent tone and suggested revision
+		○ Please review my text for consistent tone in academic writing. Ensure that the language is formal, objective, and avoids any elements that may be too casual or subjective. If you identify any instances where the tone may need adjustment for a more formal and scholarly demeanor, please provide specific suggestions. The text is [insert the specific text or provide a brief description of the content].
 
 
 ## Older Attempts and Information
