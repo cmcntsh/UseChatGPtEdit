@@ -2,6 +2,43 @@
 
 Hiring an editor to help with your writing can be very expensive. I've seen editing services cost between $50 - $120 per hour. ChatGPT may be a useful tool to help you edit and improve your writing. An editor may still be helpful to help you with the ordering of ideas and flow of a paper, but at least you won't be spending money to fix the mechanics of your writing. 
 
+## Editing Process and Useful Prompts
+
+I asked ChatGPT to suggest some steps to edit an academic paper.
+
+	• What are the steps to edit a scholarly paper?
+		1. Review the Guidelines:
+			• Familiarize yourself with the specific guidelines provided by the journal or institution. Ensure that the paper meets all formatting and submission requirements.
+		2. Read for Content:
+			• Read the paper through once to understand the overall content and argument. Check if the paper has a clear thesis statement and if each section contributes to the overall argument.
+		3. Check Structure and Organization:
+			• Ensure that the paper has a logical flow of ideas and a well-organized structure. Check if each paragraph has a clear topic sentence and if there are smooth transitions between paragraphs and sections.
+		4. Verify Citations and References:
+			• Check that all citations are accurate and properly formatted according to the required citation style (APA, MLA, Chicago, etc.). Verify that the references match the citations in the text.
+		5. Grammar and Style:
+			• Review the paper for grammatical errors, spelling mistakes, and punctuation errors. Ensure that the writing style is consistent throughout the paper.
+		6. Clarity and Conciseness:
+			• Edit for clarity, removing unnecessary words or jargon. Ensure that complex ideas are expressed in a clear and concise manner. Consider the target audience and adjust the language accordingly.
+		7. Check for Consistent Tone:
+			• Ensure that the tone of the paper is consistent. Scholarly writing often requires a formal and objective tone, so avoid language that may be too casual or subjective.
+		8. Evaluate Argument and Evidence:
+			• Assess the strength of the argument and the supporting evidence. Verify that the evidence is relevant, accurate, and cited appropriately. Check if the argument is persuasive and well-supported.
+		9. Check for Redundancy:
+			• Eliminate redundant phrases or repetitive information. Ensure that each sentence contributes something new to the paper.
+		10. Review Tables and Figures:
+			• If the paper includes tables, figures, or other visual elements, check them for accuracy and clarity. Ensure that they are properly labeled and referenced in the text.
+		11. Consider Formatting:
+			• Double-check formatting details such as font size, line spacing, and margins. Ensure consistency in the formatting of headings, subheadings, and other stylistic elements.
+		12. Proofread:
+			• Carefully proofread the entire paper for any remaining errors. It's often helpful to read the paper aloud or have someone else review it to catch errors that might be overlooked.
+		13. Seek Feedback:
+			• If possible, have someone else read the paper and provide feedback. Fresh eyes can often spot issues that the author might have missed.
+		14. Final Check:
+Perform a final check to ensure that all changes have been made correctly and that the paper is ready for submission. ![image](https://github.com/cmcntsh/UseChatGPtEdit/assets/32034299/ca6417c0-d104-4af3-9ec4-13879f9ea605)
+
+
+## Older Attempts and Information
+
 Here is an example of feedback provided by ChatGPT on a paragraph and some other writing examples. 
 
 * I started with the following paragraph:
