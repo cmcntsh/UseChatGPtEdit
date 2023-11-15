@@ -34,7 +34,9 @@ I asked ChatGPT to suggest some steps to edit an academic paper.
 		13. Seek Feedback:
 			• If possible, have someone else read the paper and provide feedback. Fresh eyes can often spot issues that the author might have missed.
 		14. Final Check:
-Perform a final check to ensure that all changes have been made correctly and that the paper is ready for submission. ![image](https://github.com/cmcntsh/UseChatGPtEdit/assets/32034299/ca6417c0-d104-4af3-9ec4-13879f9ea605)
+			• Perform a final check to ensure that all changes have been made correctly and that the paper is ready for submission. 
+   
+
 
 
 ## Older Attempts and Information
