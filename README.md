@@ -2,6 +2,29 @@
 
 Hiring an editor to help with your writing can be very expensive. I've seen editing services cost between $50 - $120 per hour. ChatGPT may be a useful tool to help you edit and improve your writing. An editor may still be helpful to help you with the ordering of ideas and flow of a paper, but at least you won't be spending money to fix the mechanics of your writing. 
 
+## Writing Process and Useful Prompts
+
+* If you're having a hard time writing, you might ask ChatGPT to suggest elements to discuss about a particular topic.
+
+```
+You are an academic writing coach in health sciences. Please suggest relevant elements to discuss about quality improvement projects.
+``` 
+
+* If you're having a hard time organizing thoughts into paragraphs, you might try listing different thoughts as bullet points, and asking ChatGPT to suggest a good way to organize those sentences into paragraphs.
+
+```
+Could you please recommend a good way to organize these sentences into paragraphs:
+	• Paragraphs should be well-formed.
+	• Paragraphs should have a topic sentence or sentences. 
+	• Usually, the topic sentence is the first sentence in a paragraph, but occasionally the main topic in a paragraph may be spelled out over the first couple of sentences.
+	• Supporting points that elaborate on the topic sentence should be found in the body of the paragraph.
+	• It is often useful to include the point of writing the paragraph. 
+	• The point of a paragraph will usually come either at the beginning of the paragraph after the main topic, or at the end of the paragraph after the body of the discussion about the topic.
+	• I also like to talk about cats.
+	• Cats are one of my favorite animals.
+
+```
+
 ## Editing Process and Useful Prompts
 
 I asked ChatGPT to suggest some steps to edit an academic paper.
