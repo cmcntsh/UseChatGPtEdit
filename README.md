@@ -72,6 +72,15 @@ I asked ChatGPT for some prompts to help with specific steps.
 		○ Please review my text for consistent tone in academic writing. Ensure that the language is formal, objective, and avoids any elements that may be too casual or subjective. If you identify any instances where the tone may need adjustment for a more formal and scholarly demeanor, please provide specific suggestions. The text is [insert the specific text or provide a brief description of the content].
 
 
+## Evaluating a piece of writing against some specific criteria
+
+Prompt
+
+```
+How well does the following text answer each of these questions? [Put your list of questions here.]
+"[Paste the text you want evaluated here.]"
+```
+
 ## Older Attempts and Information
 
 Here is an example of feedback provided by ChatGPT on a paragraph and some other writing examples. 
