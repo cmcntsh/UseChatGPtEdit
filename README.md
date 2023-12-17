@@ -81,6 +81,16 @@ How well does the following text answer each of these questions? [Put your list 
 "[Paste the text you want evaluated here.]"
 ```
 
+## Grading a piece of writing using a specific rubric
+
+Rubric
+
+|     |  4  |  3  |  2  |  1  |
+| --- | --- | --- | --- | --- |
+| Grammar & Punctuation | The author makes no errors in grammar, mechanics, or spelling. | The author makes no errors in grammar, mechanics, or spelling. | The author makes several errors in grammar, mechanics, or spelling that interfere with understanding. | The author makes numerous errors in grammar, mechanics, or spelling that interfere with understanding. |
+| Logic & Flow | The author consistently uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author mostly uses well-formed paragraphs that have clear topics, suitable transitions between sentences and paragraphs, logical arrangement, and clearly written sentences. | The author has some paragraphs that are not well-formed. Topics in some paragraphs may not be clear. Some transitions between sentences and paragraphs may be abrupt or disjointed. Some paragraphs or sentences may not follow a logical arrangement or may not be clearly written. | The author has several paragraphs that are not well-formed. Topics in several paragraphs may not be clear. Transitions between sentences and paragraphs may be abrupt or disjointed. Several paragraphs or sentences may not follow a logical arrangement or may not be clearly written. |
+
+
 ## Older Attempts and Information
 
 Here is an example of feedback provided by ChatGPT on a paragraph and some other writing examples. 
