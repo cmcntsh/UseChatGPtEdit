@@ -74,7 +74,7 @@ I asked ChatGPT for some prompts to help with specific steps.
 
 ## Evaluating a piece of writing against some specific criteria
 
-Prompt
+Prompt (This prompt gave nice results in https://chat.openai.com/ and https://bard.google.com/chat .)
 
 ```
 How well does the following text answer each of these questions? [Put your list of questions here.]
