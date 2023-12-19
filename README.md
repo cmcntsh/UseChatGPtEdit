@@ -25,6 +25,14 @@ Could you please recommend a good way to organize these sentences into paragraph
 
 ```
 
+### Writing Topic Sentences
+
+Prompt 
+```
+Generate three example topic sentences that introduce the main concept of this paragraph:
+"[Paste the paragraph here.]"
+```
+
 ## Editing Process and Useful Prompts
 
 I asked ChatGPT to suggest some steps to edit an academic paper.
