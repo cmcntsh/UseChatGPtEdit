@@ -35,6 +35,8 @@ Generate three example topic sentences that introduce the main concept of this p
 
 ## Editing Process and Useful Prompts
 
+This blog post has some useful ideas: https://edubirdie.com/blog/chatgpt-prompts-to-improve-your-academic-writing
+
 I asked ChatGPT to suggest some steps to edit an academic paper.
 
 	• What are the steps to edit a scholarly paper?
